@@ -111,8 +111,8 @@ LLM classifier pass, per-source trust levels, and red-team eval cases.
 
 | Tier | Scope | Price |
 |---|---|---|
-| Starter | _placeholder_ | _TBD_ |
-| Standard | _placeholder_ | _TBD_ |
-| Premium | _placeholder_ | _TBD_ |
+| Starter | Up to 50 docs, CLI or HTTP endpoint, cited answers | from USD 600 |
+| Standard | MCP server for Claude/Cursor, 30-question eval set, injection defenses | from USD 1,500 |
+| Premium | Deploy + monitoring, access control per team, 30 days support | from USD 2,500 |
 
 All documents in `corpus/` are fictional. No real personal data or secrets.
