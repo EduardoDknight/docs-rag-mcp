@@ -52,7 +52,7 @@ flowchart LR
 
 ```bash
 python -m venv .venv && .venv/bin/pip install -r requirements.txt   # Windows: .venv\Scripts\pip
-.venv/bin/python -m pytest -q                                        # 15 tests, all offline
+.venv/bin/python -m pytest -q                                        # 14 tests, all offline
 ```
 
 Ask over HTTP: `uvicorn api:app` then
